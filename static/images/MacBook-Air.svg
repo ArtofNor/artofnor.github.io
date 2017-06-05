@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="2230px" height="1340px" viewBox="0 0 2230 1340" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>MacBook-Air</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EAEAEC" offset="0%"></stop>
+            <stop stop-color="#C2C1C6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#BFBFBF" offset="0%"></stop>
+            <stop stop-color="#343434" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="-2.97945205%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#A6A6A6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="10.0993515%"></stop>
+            <stop stop-color="#FFFFFF" offset="86.3256568%"></stop>
+            <stop stop-color="#9B9B9B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="MacBook-Air" sketch:type="MSArtboardGroup">
+            <rect id="Rectangle-1" fill="#E8E8EA" sketch:type="MSShapeGroup" x="222" y="46" width="1790" height="1252" rx="68"></rect>
+            <rect id="Rectangle-2" fill="#4A4A4A" sketch:type="MSShapeGroup" x="230" y="55" width="1774" height="1234" rx="59"></rect>
+            <rect id="Rectangle-3" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" x="237" y="61" width="1761" height="1195" rx="52"></rect>
+            <rect id="Rectangle-4" fill="#E8E8E8" sketch:type="MSShapeGroup" x="21" y="1257" width="2192" height="6"></rect>
+            <path d="M2212.14648,1262.3125 C2212.14648,1262.3125 2197.26172,1269.77734 2167.67383,1276.87695 C2138.08594,1283.97656 2030.80664,1302.90234 1947.8418,1302.90234 C1864.87695,1302.90234 396.35477,1302.90234 290.714494,1302.90234 C185.074219,1302.90234 80.0449204,1280.99609 58.3808594,1275.98047 C36.7167984,1270.96484 22,1262 22,1262 L2212.14648,1262.3125 Z" id="Path-1" fill="url(#linearGradient-2)" sketch:type="MSShapeGroup"></path>
+            <rect id="Rectangle-5" fill="#000000" sketch:type="MSShapeGroup" x="309" y="133" width="1616" height="1014" rx="4"></rect>
+            <rect id="Rectangle-6" fill="#FFFFFF" sketch:type="MSShapeGroup" x="312" y="136" width="1610" height="1008"></rect>
+            <circle id="Oval-1" fill="#000000" sketch:type="MSShapeGroup" cx="1117.5" cy="101.5" r="11.5"></circle>
+            <path d="M935,1257 L935,1263 C935,1263 945.780033,1268.61245 962.497192,1269.47503 C1002.29677,1271.52863 1075.74813,1270 1117.5,1270 C1161.18912,1270 1233.20532,1271.5661 1272.43619,1269.5085 C1289.21761,1268.62833 1300,1263 1300,1263 L1300,1257 L935,1257 Z" id="Rectangle-7" fill="url(#linearGradient-3)" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
